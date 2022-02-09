@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello I'm Francisco. I'm Web Developer, Minim do proident aliqua id
+          Hello I'm Fran. I'm Web Developer, Minim do proident aliqua id
           nostrud.
         </p>
         <p>
